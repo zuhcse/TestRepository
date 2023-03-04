@@ -13,6 +13,7 @@ public class AddingNumbers {
 		}
 		System.out.println("The result is: " +sum);
 		
+		//add all number from 0 to 15
 		
 		int sum1 = 0;
 		int i =0;
