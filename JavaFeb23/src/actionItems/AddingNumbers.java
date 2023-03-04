@@ -1,4 +1,4 @@
-package ActionItems;
+package actionItems;
 
 public class AddingNumbers {
 
